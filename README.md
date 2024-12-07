@@ -1,5 +1,5 @@
 **_<h2 align="center">:vulcan_salute: Trabajos Android Realizados en Clase  :computer:</h2>_**
-**<h2 align="center">:laptop: Desarrollados con Java y Kotlin :memo:</h2>**
+**<h2 align="center">:computer: Desarrollados con Java y Kotlin :memo:</h2>**
 
 **_<h3>Preparación para la Certificación</h3>_**
 - [Clase Reforzamiento Prueba de Certificación]-()
