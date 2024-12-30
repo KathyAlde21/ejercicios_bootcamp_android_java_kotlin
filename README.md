@@ -57,7 +57,7 @@
 
 - [Clase 2 - Layouts](https://github.com/KathyAlde21/android_layout) - [Linear Layout](https://github.com/KathyAlde21/proycto_linear_layout) - [Ejercicio Anidamiento Linear Leyout 1](https://github.com/KathyAlde21/ejercicios_layout_uno) - [Ejercicio Anidamiento Linear Leyout 2](https://github.com/KathyAlde21/ejercicios_layout_dos)
 - [Clase 3 - Interfaz Gráfica - ConstraintLayout - Strings - Colors - Guidelines](https://github.com/KathyAlde21/ingreso_datos_usuario)
-- [Clase 4 - Event OnClick - FontFamily - Notificación Toast - CheckBox/RadioButtons]-()
+- [Clase 4 - Interfaz Gráfica parte dos - Create Landscape](https://github.com/KathyAlde21/interfaz_grafica_parte_dos) - [Evento OnClick - FontFamily - Notificación Toast - CheckBox/RadioButtons](https://github.com/KathyAlde21/evento_onclick_pantalla_y_notificacion)
 - [Clase 5 - Toolbar / Fragments]-()
 - [Clase 6 - RecyclerView Parte 1 - Diseño Elementos]-()
 - [Clase 7 - RecyclerView Parte 2]-()
